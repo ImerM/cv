@@ -1,5 +1,5 @@
 ## My pagedown rendered CV
 
-Based on the excellently done CV of [Nick Strayer](http://nickstrayer.me/cv)
+My CV done in [Pagedown](https://github.com/rstudio/pagedown)
 
 
